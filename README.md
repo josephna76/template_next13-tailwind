@@ -1,6 +1,6 @@
 # template_next13-tailwind
 
-This is a [Next.js + Tailwind + Typescript](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a template for a [Next.js v13 + Tailwind + Typescript](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
